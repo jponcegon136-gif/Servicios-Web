@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Bloquear archivos internos que no aportan a SEO (opcional)
+Disallow: /memory/
+
+Sitemap: https://www.jorgegonzalezdev.com/sitemap.xml
